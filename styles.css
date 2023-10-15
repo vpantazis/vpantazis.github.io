@@ -27,13 +27,13 @@ h1{
 }
 
 .welcoming {
-    margin-top: 100px;
+    margin-top: 50px;
     text-align: center;
 }
 
 .background-pic {
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 70%;
     display: flex;
     margin: 0 auto;
     margin-top: 20px;
