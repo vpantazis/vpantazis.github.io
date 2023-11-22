@@ -1,0 +1,19 @@
+html {
+    font-size: 12px;
+}
+
+* {
+    text-align: center;
+    font-family: 'STIX Two Text', serif;
+    color: yellow;
+    background-color: lightsalmon;
+}
+
+.moto1 {
+    margin-bottom: 2rem;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
